@@ -37,3 +37,6 @@
 //   return kittens.slice(1)
 // }
 
+var kittens = ["Milo", "Otis", "Garfield"];
+
+
