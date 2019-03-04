@@ -39,8 +39,8 @@
 
 var kittens = ["Milo", "Otis", "Garfield"];
 
-function destructivelyAppendKitten(x,y){
-  x.push(y);
+function destructivelyAppendKitten(y){
+  kittens.push(y);
   return x;
 }
 
